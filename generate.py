@@ -26,12 +26,12 @@ except:
 def gh_repo(name):
   print('Fetching "%s" repo information...' % name)
   # Use the following for development so you do not hammer the GitHub API.
-  #return {'name': name, 'html_url': 'http://google.com', 'homepage': 'http://example.com', 'description': 'Description!'}
+  return {'name': name, 'html_url': 'http://google.com', 'homepage': 'http://example.com', 'description': 'Description!'}
 
   if not logged_in:
     time.sleep(2.0) # Take a nap so GitHub doesn't aggressively throttle us.
 
-  repo = ghclient.repos.get(user='square', repo=name)
+  repo = ghclient.repos.get(user='inloop', repo=name)
   return dict(
     name=repo.name,
     homepage=repo.homepage,
