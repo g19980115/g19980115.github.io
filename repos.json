@@ -1,5 +1,6 @@
 {
   "repos": {
+    "sqlite-viewer": ["Android Tools"],
     "apk-method-count": ["Android Tools"],
     "shadow4android": ["Android Tools"],
     "svg2android": ["Android Tools"],
