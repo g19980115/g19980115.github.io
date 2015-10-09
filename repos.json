@@ -8,7 +8,7 @@
     "easygcm": ["Android Libs"],
     "easyrelease": ["Android Libs"],
     "AndroidViewModel": ["Android Libs"],
-    "QLPlayground": ["iOS Libs"]
+    "QLPlayground": ["iOS Tools"]
   },
   "custom": [
   ]
