@@ -1,13 +1,14 @@
 {
   "repos": {
-    "sqlite-viewer": ["Android Tools"],
+    "sqlite-viewer": ["Tools"],
     "apk-method-count": ["Android Tools"],
     "shadow4android": ["Android Tools"],
     "svg2android": ["Android Tools"],
     "interpolator": ["Android Tools"],
     "easygcm": ["Android Libs"],
     "easyrelease": ["Android Libs"],
-    "AndroidViewModel": ["Android Libs"]
+    "AndroidViewModel": ["Android Libs"],
+    "QLPlayground": ["iOS Libs"]
   },
   "custom": [
   ]
