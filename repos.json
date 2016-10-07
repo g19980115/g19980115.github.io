@@ -8,6 +8,7 @@
     "easygcm": ["Android Libs"],
     "easyrelease": ["Android Libs"],
     "AndroidViewModel": ["Android Libs"],
+	"LocalMessageManager": ["Android Libs"],
     "QLPlayground": ["iOS Tools"]
   },
   "custom": [
