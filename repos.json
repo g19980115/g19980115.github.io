@@ -10,6 +10,7 @@
     "AndroidViewModel": ["Android Libs"],
     "LocalMessageManager": ["Android Libs"],
     "SimpleRecyclerAdapter": ["Android Libs"],
+    "qc": ["Tools"],
     "QLPlayground": ["iOS Tools"]
   },
   "custom": [
