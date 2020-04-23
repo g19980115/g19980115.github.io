@@ -1,4 +1,4 @@
-auto: true
+//auto: true
 - type: git
   repo: https://github.com/g19980115/svg2android.git
   branch: gh-pages
